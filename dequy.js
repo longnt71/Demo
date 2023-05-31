@@ -29,3 +29,6 @@ function factical(num) {
 }
 
 console.log(factical(3));
+
+
+<i class="fas fa-h2    "></i>
